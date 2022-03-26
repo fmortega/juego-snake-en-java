@@ -16,7 +16,7 @@ public class Caminante implements Runnable {
         this.panel = panel;
     }
 
- 
+ //inserto un comentario
 
     @Override
     public void run() {
